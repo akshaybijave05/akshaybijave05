@@ -1,6 +1,11 @@
 
-![ICS_RuinAHackersDay-header](https://github.com/akshaybijave05/akshaybijave05/assets/114489007/7595039f-44e0-4a50-a0cc-1dd22c7b51aa)
 
+
+
+
+
+
+![ICS_RuinAHackersDay-header](https://github.com/akshaybijave05/akshaybijave05/assets/114489007/7595039f-44e0-4a50-a0cc-1dd22c7b51aa)
 <h1 align="center">Hi 👋, I'm Akshay Bijave</h1>
 <h3 align="center">A passionate back-end developer from Bharat (India)</h3>
 
@@ -37,3 +42,13 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshaybijave05&show_icons=true&locale=en" alt="akshaybijave05" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshaybijave05&" alt="akshaybijave05" /></p>
+
+<video poster="https://i.gifer.com/fetch/w300-preview/84/84d79f587caeee69caf306386ec3527d.gif" class="full-media" loop="" autoplay="" playsinline=""><source src="https://i.gifer.com/758X.mp4" type="video/mp4"></video>
+
+
+
+
+
+
+
+
