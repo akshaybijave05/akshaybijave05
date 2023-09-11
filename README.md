@@ -39,7 +39,7 @@
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshaybijave05&" alt="akshaybijave05" />  
 </p>
-<p>  <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"></p>
+<p>  <img align="right" alt="Coding" width="400" src="https://i.gifer.com/758X.mp4"></p>
 
 
 
