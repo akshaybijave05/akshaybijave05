@@ -2,7 +2,7 @@
 ![logo](https://github.com/akshaybijave05/akshaybijave05/blob/main/Github%20Banner.gif)
 </p>
 
-![ICS_RuinAHackersDay-header](https://github.com/akshaybijave05/akshaybijave05/assets/114489007/7595039f-44e0-4a50-a0cc-1dd22c7b51aa)
+
 <h1 align="center">Hi 👋, I'm Akshay Bijave</h1>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 <h3 align="center">A passionate back-end developer from Bharat (India)</h3>
