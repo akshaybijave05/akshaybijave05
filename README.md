@@ -2,7 +2,7 @@
   ![MasterHead](https://github.com/akshaybijave05/akshaybijave05/blob/main/Github%20Banner.gif)
 </p>
 
-
+![logo](https://github.com/akshaybijave05/akshaybijave05/blob/main/Github%20Banner.gif)
 
 <h1 align="center">Hi 👋, I'm Akshay Bijave</h1>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
