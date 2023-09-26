@@ -99,7 +99,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,c,cpp,java,spring" /><br>
-    <img src="https://skillicons.dev/icons?i=mysql,postman,eclipse,vscode,linux" />
+    <img src="https://skillicons.dev/icons?i=mysql,postman,eclipse,vscode,github,linux" />
 </div>
 
 
