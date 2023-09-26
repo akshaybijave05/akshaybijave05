@@ -24,7 +24,7 @@
 - 📫 How to reach me **akshaybijave12@gmail.com**
 
 - ⚡ Fun fact **I Think i am funny ..!**
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+<img align="right" alt="Coding" width="400" src="https://tenor.com/view/walking-code-computer-gif-11570098">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
