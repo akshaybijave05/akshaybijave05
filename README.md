@@ -1,5 +1,7 @@
+<p>
+  ![MasterHead](https://github.com/akshaybijave05/akshaybijave05/blob/main/Github%20Banner.gif)
+</p>
 
-![MasterHead](https://github.com/akshaybijave05/akshaybijave05/blob/main/Github%20Banner.gif)
 
 
 <h1 align="center">Hi 👋, I'm Akshay Bijave</h1>
