@@ -36,10 +36,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshaybijave05&show_icons=true&locale=en" alt="akshaybijave05" /></p>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshaybijave05&" alt="akshaybijave05" />  
-</p>
-
 
 
 
