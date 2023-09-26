@@ -95,11 +95,11 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
-<h3 align="left">Languages and Tools:</h3>
+
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,c,cpp,java,spring,mysql,postman,eclipse,linux" /><br>
-    <img src="https://skillicons.dev/icons?i=flask,html,css,vscode,apache tomcat,github" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,c,cpp,java,spring" /><br>
+    <img src="https://skillicons.dev/icons?i=mysql,postman,eclipse,linux,vscode,apache tomcat,github" />
 </div>
 
 
