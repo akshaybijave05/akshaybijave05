@@ -99,7 +99,7 @@
 <br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshaybijave05&show_icons=true&locale=en&layout=compact" alt="akshaybijave05" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshaybijave5&show_icons=true&locale=en" alt="akshaybijave5" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshaybijave05&show_icons=true&locale=en" alt="akshaybijave05" /></p>
 
 
 
