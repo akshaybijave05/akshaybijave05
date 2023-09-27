@@ -1,10 +1,5 @@
 
 
-<h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
-</h3>
-<br/>
-
 
 <p>
   ![MasterHead](https://github.com/akshaybijave05/akshaybijave05/blob/main/Github%20Banner.gif)
@@ -78,7 +73,13 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshaybijave05&show_icons=true&locale=en" alt="akshaybijave05" /></p>
 
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=akshaybijave05&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+<img width=390 src="https://github-readme-stats.vercel.app/api?username=akshaybijave05&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+
+<br>
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
+</h3>
+</br>
 
 
 
