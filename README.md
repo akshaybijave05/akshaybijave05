@@ -11,8 +11,7 @@
 
 
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
+
 <div align=center>
   <img width=390 src="https://streak-stats.demolab.com/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
@@ -89,6 +88,9 @@
   <br/><br/><br/>
 </div>
 <hr/>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshaybijave05&show_icons=true&locale=en&layout=compact" alt="akshaybijave05" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshaybijave05&show_icons=true&locale=en" alt="akshaybijave05" /></p>
