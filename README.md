@@ -66,7 +66,7 @@
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/akshaybijave05/akshaybijave05/output/github-contribution-grid-snake.svg" />
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
 
-  <br/><br/><br/>
+<br/><br/><br/>
 </div>
 <hr/>
 
@@ -76,13 +76,12 @@
 
 <img width=390 src="https://github-readme-stats.vercel.app/api?username=akshaybijave05&count_private=true&theme=react&border_radius=10" alt="streak stats"/> 
 
-<img width=390 src="https://streak-stats.demolab.com/?user=akshaybijave05&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+<img width=390 src="https://streak-stats.demolab.com/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
 
 <br/><br/>
 <hr/>
 
 <br>
-
 <br>
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab..!+:)">
