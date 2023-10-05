@@ -1,6 +1,4 @@
-<p>
-  ![MasterHead](https://github.com/akshaybijave05/akshaybijave05/blob/main/Github%20Banner.gif)
-</p>
+
 ![download](https://github.com/akshaybijave05/akshaybijave05/assets/114489007/0f8c8d2a-1f51-452e-ac04-4edbe36de30f)
 
 
