@@ -10,6 +10,7 @@
 
 
 
+![e36ec678-7984-4cdd-8e4c-a3932772ff8e](https://github.com/akshaybijave05/akshaybijave05/assets/114489007/6b6e0aaa-ec8a-4899-b0fe-f82c2a451fdb)
 
 
 
@@ -19,8 +20,6 @@
 
 
 
-
-![download](https://github.com/akshaybijave05/akshaybijave05/assets/114489007/0f8c8d2a-1f51-452e-ac04-4edbe36de30f)
 
 
 
