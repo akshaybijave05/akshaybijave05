@@ -11,7 +11,6 @@
 </h1>
 <br>
 
-![e36ec678-7984-4cdd-8e4c-a3932772ff8e](https://github.com/akshaybijave05/akshaybijave05/assets/114489007/6b6e0aaa-ec8a-4899-b0fe-f82c2a451fdb)
 
 <br>
 
