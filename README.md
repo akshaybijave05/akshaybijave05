@@ -43,10 +43,7 @@
 <p><a href="https://www.buymeacoffee.com/akshaybijave05"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="akshaybijave05" /></a></p><br><br>
 
 
-<div align="center">
-
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/akshaybijave05/akshaybijave05/output/github-contribution-grid-snake.svg" />
+<div align="center"> 
 <br/><br/><br/>
 </div>
 <hr/>
